@@ -1,2 +1,1 @@
-import threading
-import sqlite3
+print('Hello Python!')
